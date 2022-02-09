@@ -1,0 +1,13 @@
+:root {
+    --yellow-sun: #ffe21d;
+    --yellow-deep-lemon: #ffd21d;
+    --blue-button: #24afff;
+    --blue-dodger: #248bff;
+    --pink-light-carmine: #f26c6c;
+    --green-crayola: #27b667;
+
+    --background-color: #d3d3d3;
+    
+    --text-font-family: 'Montserrat', monospace;
+    --font-size: 16px;
+}
