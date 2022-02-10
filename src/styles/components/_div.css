@@ -1,0 +1,25 @@
+.div {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    width: 100%;
+ }
+
+.div__h2 {
+    color: var(--blue-button);
+    font-size: 42px;
+    margin: 20px;
+}
+    
+.div__input {
+    width: 50%;
+    margin: 10px;
+}
+
+.div__p {
+    color: var(--input-text-color);
+    margin: 20px;
+}
