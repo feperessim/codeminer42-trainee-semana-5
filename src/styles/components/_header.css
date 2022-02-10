@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: var(--header-font-weight);
+    font-size: var(--header-font-size);
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}

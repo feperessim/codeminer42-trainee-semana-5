@@ -8,6 +8,7 @@
     --red: #ff0000;
     --pink: #ffc0cb;
     --green: #00ff00;
+    --white: #ffffff;
     --light-green: #d9e7e4;
     --light-bolder-green: #66c894;
     --white-chocolate: #eae7dc; 
@@ -26,7 +27,11 @@
 
     --input-text-color: #000000;
     --input-text-font-size: 18px;
-    --input--font-family: helvetica;
+    --input--font-family: 'Montserrat', helvetica;
     --input-background-color: #ffffff;
     --input-font-weight: bolder;
+
+    --header-font-family: 'Montserrat', helvetica;
+    --header-font-weight: bolder;
+    --header-font-size: 22px;
 }
