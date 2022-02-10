@@ -5,9 +5,28 @@
     --blue-dodger: #248bff;
     --pink-light-carmine: #f26c6c;
     --green-crayola: #27b667;
-
+    --red: #ff0000;
+    --pink: #ffc0cb;
+    --green: #00ff00;
+    --light-green: #d9e7e4;
+    --light-bolder-green: #66c894;
+    --white-chocolate: #eae7dc; 
+     --burlywood: #e1be79;
     --background-color: #d3d3d3;
     
     --text-font-family: 'Montserrat', monospace;
     --font-size: 16px;
+
+    --btn-text-color: #000000;
+    --btn-text-font-size: 22px;
+    --btn-text-shadow-color: #2f6627;
+    --btn-background-color: transparent;
+    --btn-border-color: #000000;
+    --btn-font-family: arial;
+
+    --input-text-color: #000000;
+    --input-text-font-size: 18px;
+    --input--font-family: helvetica;
+    --input-background-color: #ffffff;
+    --input-font-weight: bolder;
 }
