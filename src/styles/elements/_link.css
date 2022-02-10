@@ -1,9 +1,10 @@
-a:link {
-    color:  var(--blue-button);
+a {
+    color:  inherit;
+    text-decoration: none;
 }
 
 a:visited {
-    color: var(--green-crayola);
+    color: inherit;
 }
 
 a:hover {
