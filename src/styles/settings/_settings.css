@@ -34,4 +34,9 @@
     --header-font-family: 'Montserrat', helvetica;
     --header-font-weight: bolder;
     --header-font-size: 22px;
+
+    --footer-font-family: 'Montserrat', helvetica;
+    --footer-font-weight: bolder;
+    --footer-font-size: 22px;
+    
 }

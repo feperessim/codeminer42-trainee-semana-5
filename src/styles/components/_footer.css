@@ -1,0 +1,27 @@
+.footer {
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    font-weight: var(--footer-font-weight);
+    font-size: var(--footer-font-size);
+    font-family: var(--footer-font-family);
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.footer__h2 {
+    color: var(--input-text-color);
+}
+
+.footer__p {
+    color: var(--input-text-color);
+}
+
+.footer--top {
+    color: var(--red);
+    margin-right:15px;
+}
